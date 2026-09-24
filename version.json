@@ -1,7 +1,8 @@
  {
-    "version": "2.0.1.8",
+    "version": "2.0.1.7",
     "url": "https://github.com/SamHuang1994/-VisionPlusUpdate/releases/download/v2.0.1.7/VisionPlus.exe",
     "updaterUrl": "https://github.com/SamHuang1994/-VisionPlusUpdate/releases/download/v2.0.1.7/Updater.exe",
+    "configUrl": "https://github.com/SamHuang1994/-VisionPlusUpdate/releases/download/v2.0.1.7/VisionPlus.exe.config",
     "md5": "",
     "releaseNotes": "初始版本"
   }
